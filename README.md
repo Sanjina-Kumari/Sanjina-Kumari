@@ -1,6 +1,8 @@
 ## Hello! 👋
 
-My name is **Sanjina Kumari**, a Computer Science and Economics double major at Pacific Lutheran University. I'm passionate about using technology to drive social good — from building web tools and conducting AI research to empowering communities through design and data. When I’m not coding or researching product-market fit, you’ll find me mentoring students, organizing events in my school and community, or brushing up my interior design skills and hiking the Pacific Northwest!
+My name is **Sanjina Kumari**, a Computer Science and Economics double major at Pacific Lutheran University. I'm passionate about using technology to drive social good from building web tools and conducting AI research to empowering communities through design and data. 
+
+When I’m not coding or researching product-market fit, you’ll find me mentoring students, organizing events in my school and community, or brushing up my interior design skills and hiking the Pacific Northwest!
 
 ---
 
@@ -8,9 +10,9 @@ My name is **Sanjina Kumari**, a Computer Science and Economics double major at 
 
 ✨ I’m building tech, product, and research that serve people.  
 📚 Studying CS + Econ at Pacific Lutheran University with a global lens.  
-🧬 Currently working as a Research Assistant on protein function prediction using AI/ML models that apply NLP and large language model (LLM) techniques to biological data.  
-🛍️ Co-founded **Hunarwar**, an e-commerce platform empowering women artisans from rural Pakistan by bringing their products to national markets through a website and social media.  
-🎯 Goal: Intern full-time in Summer 2026 and grow into a purpose-driven tech professional who builds tools, solves real-world problems, and drives impact through inclusive, ethical technology.  
+🧬 Currently working as a Research Assistant on protein function prediction using AI/ML model on biological data.  
+🛍️ Co-founded **Hunarwar**, an e-commerce platform empowering women artisans from rural Pakistan by bringing their products to national markets.
+🎯 Goal: Intern full-time in Summer 2026 and growing into a purpose-driven tech professional. 
 💡 Fun fact: I once taught coding to kids in a remote village school powered entirely by solar panels!
 
 ---
