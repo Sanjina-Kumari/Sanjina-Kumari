@@ -1,18 +1,17 @@
 ## Hello! 👋
 
-My name is **Sanjina Kumari**, a Computer Science and Economics major at Pacific Lutheran University. I'm passionate about using technology to drive social good, from building web tools and conducting AI research to empowering communities through design and data.
-
-When I’m not coding or researchin product-market fit, you’ll find me mentoring students, organizing events in my school and community, or brushing up my interior design skills and hiking the Pacific Northwest ☕.
+My name is **Sanjina Kumari**, a Computer Science and Economics double major at Pacific Lutheran University. I'm passionate about using technology to drive social good — from building web tools and conducting AI research to empowering communities through design and data. When I’m not coding or researching product-market fit, you’ll find me mentoring students, organizing events in my school and community, or brushing up my interior design skills and hiking the Pacific Northwest!
 
 ---
 
-### About Me:
-✨ I’m building tech, product and research that serve people.  
+## About Me
+
+✨ I’m building tech, product, and research that serve people.  
 📚 Studying CS + Econ at Pacific Lutheran University with a global lens.  
-🧬 Currently working as Research Assistant on protein function prediction using AI/ML models that apply NLP and large language model (LLM) techniques to biological data.
-🛍️ Co-founded **Hunarwar**: an ecommerce platform empowering women artisans from rural Pakistan by bringing their product to the country through website and social media
-🎯 Goal: Intern full-time in Summer 2026 and grow into a purpose-driven tech professional who builds tools, solves real-world problems, and drives impact through inclusive, ethical technology  
-💡 Fun fact:  I once taught coding to kids in a remote village school powered entirely by solar panels!
+🧬 Currently working as a Research Assistant on protein function prediction using AI/ML models that apply NLP and large language model (LLM) techniques to biological data.  
+🛍️ Co-founded **Hunarwar**, an e-commerce platform empowering women artisans from rural Pakistan by bringing their products to national markets through a website and social media.  
+🎯 Goal: Intern full-time in Summer 2026 and grow into a purpose-driven tech professional who builds tools, solves real-world problems, and drives impact through inclusive, ethical technology.  
+💡 Fun fact: I once taught coding to kids in a remote village school powered entirely by solar panels!
 
 ---
 
@@ -32,7 +31,6 @@ When I’m not coding or researchin product-market fit, you’ll find me mentori
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=MathWorks&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -61,7 +59,7 @@ When I’m not coding or researchin product-market fit, you’ll find me mentori
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-
+![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
 ---
 
 ### ⚙️ Development Practices:
