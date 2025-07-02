@@ -10,9 +10,9 @@ When I’m not coding or researching product-market fit, you’ll find me mentor
 
 ✨ I’m building tech, product, and research that serve people.  
 📚 Studying CS + Econ at Pacific Lutheran University with a global lens.  
-🧬 Currently working as a Research Assistant on protein function prediction using AI/ML model on biological data.  
-🛍️ Co-founded **Hunarwar**, an e-commerce platform empowering women artisans from rural Pakistan by bringing their products to national markets.
-🎯 Goal: Intern full-time in Summer 2026 and growing into a purpose-driven tech professional. 
+🧬 Currently working as a Research Assistant on protein function prediction using AI/ML models on biological data.  
+🛍️ Co-founded Hunarwar, an e-commerce platform empowering women artisans from rural Pakistan by bringing their products to national markets.  
+🎯 Goal: Intern full-time in Summer 2026 and grow into a purpose-driven tech professional.  
 💡 Fun fact: I once taught coding to kids in a remote village school powered entirely by solar panels!
 
 ---
