@@ -13,7 +13,7 @@ When I’m not coding or researching product-market fit, you’ll find me mentor
 🧬 Currently working as a Research Assistant on protein function prediction using AI/ML models on biological data.  
 🛍️ Co-founded Hunarwar, an e-commerce platform empowering women artisans from rural Pakistan by bringing their products to national markets.  
 🎯 Goal: Intern full-time in Summer 2026 and grow into a purpose-driven tech professional.  
-💡 Fun fact: I once taught coding to kids in a remote village school powered entirely by solar panels!
+💡 Fun fact: Listening to Coldplay helps me code!
 
 ---
 
